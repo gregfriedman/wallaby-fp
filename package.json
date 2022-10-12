@@ -1,8 +1,8 @@
 {
   "name": "wallaby-fp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Demonstrate wallaby js with curried functions",
+  "main": "book.js",
   "scripts": {
     "test": "jest"
   },

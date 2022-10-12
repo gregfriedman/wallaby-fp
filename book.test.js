@@ -1,6 +1,6 @@
 const { chapterIndex } = require('./book')
 
-describe('transform', () => {
+describe('chapterIndex', () => {
     it('should create index using chapter names from book', () => {
         const book = {
             chapters: [
